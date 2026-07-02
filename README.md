@@ -22,11 +22,5 @@
   </a>
 </p>
 
-## Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=hawwjla&show_icons=true&theme=dark&custom_title=hawwjla&border_radius=5)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hawwjla&theme=dark&layout=compact&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
